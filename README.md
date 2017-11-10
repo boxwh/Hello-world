@@ -1,2 +1,2 @@
 # Hello-world
-Try a Hello world repository
+Try a hello world repository
